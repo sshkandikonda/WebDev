@@ -2,10 +2,8 @@
 
 **Welcome to your web development journey!** Start here if you're new to computers and programming.
 
-## ✅ Your Learning Checklist
-
-### Week 1: Computer and Internet Basics
-- [ ] **1**: File systems, folders, operating system navigation
+# Week 1: Computer and Internet Basics
+## - **1**: File systems, folders, operating system navigation
   
   **🎯 Learning Objectives:** By the end of today, you'll understand how your computer organizes files and how to navigate using both visual and command-line interfaces.
   
@@ -32,7 +30,7 @@
   **Command Line Basics**
   
   **Windows (Command Prompt):**
-  # Open Command Prompt (Win+R, type cmd, Enter)
+  - Open Command Prompt (Win+R, type cmd, Enter)
 
   ```cmd
   dir                    # List files in current directory
@@ -45,7 +43,7 @@
   ```
   
   **Mac/Linux (Terminal):**
-  # Open Terminal (Cmd+Space, type "terminal", Enter)
+  - Open Terminal (Cmd+Space, type "terminal", Enter)
 
   ```bash
   ls                     # List files in current directory
@@ -66,7 +64,7 @@
   - [x] I understand the concept of "current directory"
   - [x] I know how to see where I am in the file system (`pwd` or current path)
 
-- [ ] **2**: Client-server model, HTTP, URLs, domains, hosting
+## - **2**: Client-server model, HTTP, URLs, domains, hosting
   
   **🎯 Learning Objectives:** Understand how the internet works, what happens when you visit a website, and the basic architecture of web communication.
   
@@ -122,7 +120,7 @@
   
   **Windows:**
   ```cmd
-  # Open Command Prompt
+  - Open Command Prompt
   nslookup google.com    # Find Google's IP address
   ping google.com        # Test connection to Google
   tracert google.com     # See the route to Google
@@ -130,7 +128,7 @@
   
   **Mac/Linux:**
   ```bash
-  # Open Terminal
+  - Open Terminal
   nslookup google.com    # Find Google's IP address
   ping google.com        # Test connection to Google (Ctrl+C to stop)
   traceroute google.com  # See the route to Google
@@ -179,7 +177,7 @@
   - [ ] I can use browser dev tools to see network requests
   - [ ] I know common HTTP status codes (200, 404, 500)
 
-- [ ] **3**: Web browsers and developer tools
+## - **3**: Web browsers and developer tools
   
   **🎯 Learning Objectives:** Master browser developer tools to inspect, understand, and debug websites like a professional web developer.
   
@@ -284,7 +282,7 @@
   - [ ] I understand how browsers render websites
   - [ ] I can monitor network requests and responses
 
-- [ ] **4**: Text editors and IDEs
+## - **4**: Text editors and IDEs
   
   **🎯 Learning Objectives:** Choose and set up a professional code editor that will be your primary tool for web development.
   
@@ -393,7 +391,7 @@
   - [ ] I can preview HTML files using Live Server or similar
   - [ ] I understand syntax highlighting and its benefits
 
-- [ ] **5**: Version control introduction
+## - **5**: Version control introduction
   
   **🎯 Learning Objectives:** Understand version control concepts and why every developer needs to track changes to their code.
   
@@ -533,7 +531,7 @@
   - [ ] I can see my commit history with `git log`
   - [ ] I understand the basic Git workflow: edit → add → commit
 
-- [ ] **Day 6**: Package managers and dependencies
+## - **Day 6**: Package managers and dependencies
   
   **🎯 Learning Objectives:** Understand how modern software uses external libraries and how package managers help organize code dependencies.
   
@@ -645,7 +643,7 @@
   - [ ] I know the difference between dependencies and devDependencies
   - [ ] I understand that packages can have their own dependencies
 
-- [ ] **Day 7**: Review and practice
+## - **Day 7**: Review and practice
   
   **🎯 Learning Objectives:** Consolidate your learning from Week 1 and set up a complete development environment ready for Week 2.
   
